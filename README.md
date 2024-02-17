@@ -5,4 +5,4 @@ Tic Tac é um relógio digital em código de barras, que muda sua cor dependendo
 # Cores disponíveis:
 ![image](https://github.com/insiwd/clock-site/assets/109873022/b852c01c-5c82-4525-805e-d442748604ee)
 
-Faça seu teste!
+Faça seu teste! https://insiwd.github.io/clock-site/
