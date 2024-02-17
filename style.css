@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-color: var(--background);
+}
+
+.clock-container {
+    text-align: center;
+    margin-top: 50vh;
+}
+
+.clock-wrapper {
+    display: inline-block;
+}
+
+.clock {
+    font-family: "Libre Barcode 39", system-ui;
+    font-size: 70px;
+    display: block;
+}
+
+.clock-number {
+    display: block;
+    font-family: "Roboto Mono", monospace;
+    font-size: medium;
+    font-weight: 600;
+}
+
+:root {
+    --background: #FBF6E0;
+}
